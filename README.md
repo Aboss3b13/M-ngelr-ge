@@ -1,5 +1,10 @@
 # Maengelruege
- 
+
+## Rollen
+Nando: Macht Windows Form Applikation
+Neo: Macht Konvertierung vom Froms zu PDF
+Abbas: PDF via E-Mail schicken
+Jamie: Hilft überall ein bisschen.
 ## Grob-Planung
 
 - [ ] website machen
@@ -7,6 +12,7 @@
 
 ## Arbeit 06.11.2023
 - [ ] PAP und sonstiges planen
+- [ ] User Interface fertig machen
 
 ## Fein-Planung
 
