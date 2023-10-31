@@ -8,7 +8,7 @@
 ## Arbeit 06.11.2023
 - [ ] PAP und sonstiges planen
 
-##Fein-Planung
+## Fein-Planung
 
 - [ ] planung fertigmachen
 - [ ] IPERKA phase I & P
