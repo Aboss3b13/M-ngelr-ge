@@ -1,4 +1,4 @@
-# Maengelruege
+# Mängelruege
 
 ## Rollen
 Nando: Logik von Tabelle/Forms
