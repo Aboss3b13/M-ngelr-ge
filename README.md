@@ -1,4 +1,17 @@
 # Mängelrüge
+# Maengelruege
+Wir machen eine Web Service.
+Es wird eine Webseite entstanden
+Auf diese Web Service gibt es ein Formular das man ausfüllen kann.
+Wenn alles augefüllt ist, wird es es eine PDF konventiert.
+Zum Schluss wird es via E-Mail geschickt.
+
+Um diesen Webservice herzustellen, müssen wir es gestalten mit css und html. (Jamie)
+Es wird eine Formular geben. Es wird gestaltet und mit Fragen und ein Ort zu schreiben. Die Antworten werden gespeichert. (Nando)
+Diese Formular wird in ein PDF heruntergeladen nach dem man abschicken drückt. (Neo)
+Dieser PDF wird anschliessend via E-Mail geschickt (Abbas)
+
+Um ein Web Service abzuschicken brauchen wir ein Server. Aber wir müssen es nicht abschicken. Wir können es via Localhost machen. (Wer das Programm leitet, wird das Programm vorübergehend hosten)
 
 ## Rollen
 Nando: Logik von Tabelle/Forms
