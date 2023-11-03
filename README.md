@@ -11,7 +11,7 @@ Es wird eine Formular geben. Es wird gestaltet und mit Fragen und ein Ort zu sch
 Diese Formular wird in ein PDF heruntergeladen nach dem man abschicken drückt. (Neo)
 Dieser PDF wird anschliessend via E-Mail geschickt (Abbas)
 
-Um ein Web Service abzuschicken brauchen wir ein Server. Aber wir müssen es nicht abschicken. Wir können es via Localhost machen. (Wer das Programm leitet, wird das Programm vorübergehend hosten)
+Um ein Web Service abzuschicken brauchen wir ein Server. Aber wir müssen es nicht abschicken. Wir können es via Localhost machen. (Wer das Programm leitet, wird das Programm vorübergehend hosten, nur für sich selber.)
 
 ## Rollen
 Nando: Logik von Tabelle/Forms
