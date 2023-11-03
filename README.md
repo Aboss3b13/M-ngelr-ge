@@ -1,23 +1,30 @@
 # Maengelruege
 
 ## Rollen
-Nando: Macht Windows Form Applikation
-Neo: Macht Konvertierung vom Froms zu PDF
+Nando: Logik von Tabelle/Forms
+Neo: Konvertierung vom Froms zu PDF
 Abbas: PDF via E-Mail schicken
-Jamie: Hilft überall ein bisschen.
-## Grob-Planung
+Jamie: CSS/HTML Server 
 
-- [ ] website machen
-- [ ] PDF umwandler & e-mail programm
+## Grob-Planung
+- [ ] Fragen mit Frau Klink klären
+- [ ] Website/Server machen
+- [ ] Forms machen
+- [ ] PDF umwandler & Email programm
 
 ## Arbeit 06.11.2023
-- [ ] PAP und sonstiges planen
+- [ ] PAP Projektplanung
 - [ ] User Interface fertig machen
-
-## Fein-Planung
-
-- [ ] planung fertigmachen
+- [ ] Email an Klink 
 - [ ] IPERKA phase I & P
+- [ ] Weitere Fragen für Termin              7.11.23 erstellen.
+
+## Termin am 7.11.2023 mit Frau Klink
+Fragen welche Geklärt werden müssen: 
+- [ ] Was stellt sich Frau Klink vor?
+- [ ] Wie viele Auswahlmöglichkeiten         will sie bei den Forms haben?
+- [ ] weitere Fragen
+- [ ] weitere Fragen 
 
 ## Arbeitspakete für xx.xx.2023
 
