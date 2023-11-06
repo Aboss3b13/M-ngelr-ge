@@ -28,9 +28,9 @@ Jamie: CSS/HTML Server
 
 ## Arbeitspakete 06.11.2023
       Fragen welche Geklärt werden müssen: 
-- [ ] Was stellt sich Frau Klink vor?
-- [ ] Wie viele Auswahlmöglichkeiten will sie bei den Forms haben?
-- [ ] Weitere Fragen für Termin 7.11.23 erstellen.
+      - [ ] Was stellt sich Frau Klink vor?
+      - [ ] Wie viele Auswahlmöglichkeiten will sie bei den Forms haben?
+      - [ ] Weitere Fragen für Termin 7.11.23 erstellen.
 
 - [ ] PAP 
 - [ ] Vorlage von Website mit Submit (Abschicken) Button
