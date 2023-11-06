@@ -53,7 +53,7 @@ Lösungen; Will der Käufer: Geld zurück, Ein Zweites Päckchen, Gutschein
 
 - [ ] PAP 
 - [x] Vorlage von Website mit Submit (Abschicken) Button
-- [ ] Grob Plaung für Nächste Woche
+- [x] Grob Planung für Nächste Woche
 
 Brainstorming: Alle 
 -Fragen und Zusammenfasssung von Brainstorming: Neo und Jamie 
