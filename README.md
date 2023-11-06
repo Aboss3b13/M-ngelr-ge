@@ -55,6 +55,9 @@ Lösungen; Will der Käufer: Geld zurück, Ein Zweites Päckchen, Gutschein
 - [ ] Vorlage von Website mit Submit (Abschicken) Button
 - [ ] Grob Plaung für Nächste Woche
 
+Brainstorming: Alle 
+Fragen und Zusammenfasssung von Brainstorming: 
+Fragen Klären zu seinen eigenen Programmier Meilensteine: Jeder für sich selbst
 
 ## Arbeitspakete für xx.xx.2023
 - [ ] muss noch geplannt werden
