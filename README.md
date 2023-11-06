@@ -40,6 +40,6 @@ Jamie: CSS/HTML Server
 - [ ] muss noch geplannt werden
 
 ## Arbeitspakete für xx.xx.2023
-abbas isch gay
+
 - [ ] muss noch geplannt werden
 - [ ] muss noch geplannt werden
