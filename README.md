@@ -34,7 +34,7 @@ Jamie: CSS/HTML Server
 
 - [ ] PAP 
 - [ ] Vorlage von Website mit Submit (Abschicken) Button
-- [ ] Grob Plaung für Nächste Planung 
+- [ ] Grob Plaung für Nächste Woche
 
 ## Arbeitspakete für xx.xx.2023
 ## rawr
