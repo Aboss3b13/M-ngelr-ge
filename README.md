@@ -25,19 +25,16 @@ Jamie: CSS/HTML Server
 - [ ] Forms machen
 - [ ] PDF umwandler & Email programm
 
-## Arbeit 06.11.2023
-- [ ] PAP Projektplanung
-- [ ] User Interface fertig machen
-- [ ] Email an Klink 
-- [ ] IPERKA phase I & P
-- [ ] Weitere Fragen für Termin              7.11.23 erstellen.
 
-## Termin am 7.11.2023 mit Frau Klink
-Fragen welche Geklärt werden müssen: 
+## Arbeitspakete 06.11.2023
+      Fragen welche Geklärt werden müssen: 
 - [ ] Was stellt sich Frau Klink vor?
-- [ ] Wie viele Auswahlmöglichkeiten         will sie bei den Forms haben?
-- [ ] weitere Fragen
-- [ ] weitere Fragen 
+- [ ] Wie viele Auswahlmöglichkeiten will sie bei den Forms haben?
+- [ ] Weitere Fragen für Termin 7.11.23 erstellen.
+
+- [ ] PAP 
+- [ ] Vorlage von Website mit Submit (Abschicken) Button
+- [ ] Grob Plaung für Nächste Planung 
 
 ## Arbeitspakete für xx.xx.2023
 
