@@ -37,7 +37,6 @@ Jamie: CSS/HTML Server
 - [ ] Grob Plaung für Nächste Woche
 
 ## Arbeitspakete für xx.xx.2023
-## rawr
 - [ ] muss noch geplannt werden
 
 ## Arbeitspakete für xx.xx.2023
