@@ -57,11 +57,17 @@ Lösungen; Will der Käufer: Geld zurück, Ein Zweites Päckchen, Gutschein
 
 Brainstorming: Alle 
 -Fragen und Zusammenfasssung von Brainstorming: Neo und Jamie 
+
 -Fragen Klären zu seinen eigenen Programmier Meilenstein:  (konkret herausfinden was man machen muss): Jeder für sich selbst
+
 -Webite Layout/ Gestaltung: Jamie 
+
 -Tabelle: Nando / Abbas 
+
 -Website Aufstarten: Abbas 
+
 -Auswertung Brainstorming: Alle 
+
 
 ## Arbeitspakete für xx.xx.2023
 - [ ] muss noch geplannt werden
