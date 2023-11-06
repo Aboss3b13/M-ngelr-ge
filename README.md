@@ -52,7 +52,7 @@ Lösungen; Will der Käufer: Geld zurück, Ein Zweites Päckchen, Gutschein
       - [ ] Weitere Fragen für Termin 7.11.23 erstellen.
 
 - [ ] PAP 
-- [ ] Vorlage von Website mit Submit (Abschicken) Button
+- [x] Vorlage von Website mit Submit (Abschicken) Button
 - [ ] Grob Plaung für Nächste Woche
 
 Brainstorming: Alle 
@@ -64,11 +64,14 @@ Brainstorming: Alle
 
 -Tabelle: Nando / Abbas 
 
--Website Aufstarten: Abbas 
+-Website Aufstarten: Abbas / Jamie 
 
 -Auswertung Brainstorming: Alle 
 
-Notizen: 
+Wir haben herausgefunden wie man Life Share aktiviert und können nun alle an einem Code arbeiten. 
+
+
+## Notizen: 
 
 - Wie stellen sie sich eine Mängelrüge vor? Z.B. Wohnungsmängelrüge, Verkaufsmängelrüge oder was anderes? (Zusatz funktion von "Bist du Schüler, oder Lehrer?" machen)
 - Was sind Ihre erwartungen von diesem Projekt, was ist Ihr gewünschtes Endresultat? 
@@ -77,7 +80,7 @@ Notizen:
 - Haben Sie anmerkungen zu unserer Planung und unserer Idee? Ist diese Idee gut? 
 - Was will sie alles auf der Website/ in den Forms?
 - Will sie das Forms auf Email verschickt haben? WOllen sie es in einem PDF oder Word?
-- 
+- /Windows form app
 
 
 ## Arbeitspakete für xx.xx.2023
