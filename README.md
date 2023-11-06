@@ -25,6 +25,25 @@ Jamie: CSS/HTML Server
 - [ ] Forms machen
 - [ ] PDF umwandler & Email programm
 
+Projekt Planung: 
+
+1. Forms erstellen in welcher Person Ihre Angaben erstellen kann, Text hinzufügen etc.
+
+Persönliche Angaben: Vor- Nachname, Adresse, E-Mail
+
+Kauf: Was hat man gekauft? (Maybe Bestellnummer?)
+
+Kaufmängel: Was ist falsch mit dem Produkt?
+
+Produktmängel: Produkt ist kaputt, falsche Grösse, geklaut (nicht angekommen), sonstiges: (please specify)
+
+1. Eingegebener Text von Person in ein PDF-Konfigurieren
+
+2. Dieses PDF an E-Mail senden
+
+Der Käufer muss angeben, was er gekauft hat und wo der Mangel liegt. Danach soll eine Nächste Frage aufgemacht werden in welche Vorschläge für das Vorhandene Problem vorgeschlagen werden.
+
+Lösungen; Will der Käufer: Geld zurück, Ein Zweites Päckchen, Gutschein
 
 ## Arbeitspakete 06.11.2023
       Fragen welche Geklärt werden müssen: 
@@ -35,6 +54,7 @@ Jamie: CSS/HTML Server
 - [ ] PAP 
 - [ ] Vorlage von Website mit Submit (Abschicken) Button
 - [ ] Grob Plaung für Nächste Woche
+
 
 ## Arbeitspakete für xx.xx.2023
 - [ ] muss noch geplannt werden
