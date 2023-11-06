@@ -75,8 +75,7 @@ Wir haben herausgefunden wie man Life Share aktiviert und können nun alle an ei
 
 - Wie stellen sie sich eine Mängelrüge vor? Z.B. Wohnungsmängelrüge, Verkaufsmängelrüge oder was anderes? (Zusatz funktion von "Bist du Schüler, oder Lehrer?" machen)
 - Was sind Ihre erwartungen von diesem Projekt, was ist Ihr gewünschtes Endresultat? 
-- Frei text, oder Auswahlmöglichkeiten in den Forms?
-- Website Titel
+- Welche Fragen wollen sie als Mängelrüge inhaltlich haben? 
 - Haben Sie anmerkungen zu unserer Planung und unserer Idee? Ist diese Idee gut? 
 - Was will sie alles auf der Website/ in den Forms?
 - Will sie das Forms auf Email verschickt haben? WOllen sie es in einem PDF oder Word?
