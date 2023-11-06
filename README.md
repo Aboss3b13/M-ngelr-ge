@@ -68,6 +68,17 @@ Brainstorming: Alle
 
 -Auswertung Brainstorming: Alle 
 
+Notizen: 
+
+- Wie stellen sie sich eine Mängelrüge vor? Z.B. Wohnungsmängelrüge, Verkaufsmängelrüge oder was anderes? (Zusatz funktion von "Bist du Schüler, oder Lehrer?" machen)
+- Was sind Ihre erwartungen von diesem Projekt, was ist Ihr gewünschtes Endresultat? 
+- Frei text, oder Auswahlmöglichkeiten in den Forms?
+- Website Titel
+- Haben Sie anmerkungen zu unserer Planung und unserer Idee? Ist diese Idee gut? 
+- Was will sie alles auf der Website/ in den Forms?
+- Will sie das Forms auf Email verschickt haben? WOllen sie es in einem PDF oder Word?
+- 
+
 
 ## Arbeitspakete für xx.xx.2023
 - [ ] muss noch geplannt werden
