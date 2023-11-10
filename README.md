@@ -35,7 +35,7 @@ Kauf: Was hat man gekauft? (Maybe Bestellnummer?)
 
 Kaufmängel: Was ist falsch mit dem Produkt?
 
-Produktmängel: Produkt ist kaputt, falsche Grösse, geklaut (nicht angekommen), sonstiges: (please specify)
+Produktmängel: Produkt ist kaputt, falsche Grösse, sonstiges: (please specify) (KEINE ANNAHMEN ODER LIEFERVORZÜge) 
 
 1. Eingegebener Text von Person in ein PDF-Konfigurieren
 
@@ -81,6 +81,13 @@ Wir haben herausgefunden wie man Life Share aktiviert und können nun alle an ei
 - Will sie das Forms auf Email verschickt haben? WOllen sie es in einem PDF oder Word?
 - /Windows form app
 
+
+Besprechung LiL klink
+Kaufvertrag, Mängel produkt, Online bestellen, Eingeben wann gekauft, welches Produkt, "ICh erhebe Mängelrüge zu OR Artikel..." 3 Wahlrechte, "IM Anhang finden sie den Kaufbeleg etc"
+Nur für AGbs eine weitere Lösung (Achtung an den Kunden "Bitte prüfe die AGBS") 
+Welches dispotitife recht. 
+Umtausch/ Rücktritt von Vertrrag, Gutschein (Prüfen was in den AGB steht) 
+Anklicken welches Produkt man gekauft hat. 
 
 ## Arbeitspakete für xx.xx.2023
 - [ ] muss noch geplannt werden
