@@ -91,7 +91,10 @@ Anklicken welches Produkt man gekauft hat.
 
 ## Arbeitspakete für 13.11.2023
 - [ ] Letzte Woche im Lernatelier hatten wir das Gespräch mit Frau klink, wir wollen die Resultate des Gespräches heute           besprechen da nicht alle dabei waren / es verstanden haben.
-- [ ] dd
+- [ ] Abbas checkboxen in Winforms bei den Auswahlmöglichkeiten
+- [ ] Nando Checklisten erstellen (Mit button), 3 Ausmöglichkeiten
+- [ ] Vorlage PDF erstellen mti Mängelrüge OR
+
 
 
 ## Arbeitspakete für xx.xx.2023
