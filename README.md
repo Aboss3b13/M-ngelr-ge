@@ -90,7 +90,8 @@ Umtausch/ Rücktritt von Vertrrag, Gutschein (Prüfen was in den AGB steht)
 Anklicken welches Produkt man gekauft hat. 
 
 ## Arbeitspakete für 13.11.2023
-- [ ] muss noch geplannt werden
+Letzte Woche im Lernatelier hatten wir das Gespräch mit Frau klink, wir wollen die Resultate des Gespräches heute besprechen da nicht alle dabei waren / es verstanden haben. 
+
 
 ## Arbeitspakete für xx.xx.2023
 
