@@ -90,14 +90,16 @@ Umtausch/ Rücktritt von Vertrrag, Gutschein (Prüfen was in den AGB steht)
 Anklicken welches Produkt man gekauft hat. 
 
 ## Arbeitspakete für 13.11.2023
-- [ ] Letzte Woche im Lernatelier hatten wir das Gespräch mit Frau klink, wir wollen die Resultate des Gespräches heute           besprechen da nicht alle dabei waren / es verstanden haben.
+- [ ] Letzte Woche im Lernatelier hatten wir das Gespräch mit Frau klink, wir wollen die Resultate des Gespräches heute besprechen da nicht alle dabei waren es verstanden haben.
 - [ ] Abbas checkboxen in Winforms bei den Auswahlmöglichkeiten
 - [ ] Nando Checklisten erstellen (Mit button), 3 Ausmöglichkeiten
 - [ ] Vorlage PDF erstellen mti Mängelrüge OR
 
 
 
-## Arbeitspakete für xx.xx.2023
+## Arbeitspakete für 20.11.2023
 
 - [ ] muss noch geplannt werden
 - [ ] muss noch geplannt werden
+- [ ]
+- [ ]
