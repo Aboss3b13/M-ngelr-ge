@@ -78,12 +78,12 @@ Wir haben herausgefunden wie man Life Share aktiviert und können nun alle an ei
 - Welche Fragen wollen sie als Mängelrüge inhaltlich haben? 
 - Haben Sie anmerkungen zu unserer Planung und unserer Idee? Ist diese Idee gut? 
 - Was will sie alles auf der Website/ in den Forms?
-- Will sie das Forms auf Email verschickt haben? WOllen sie es in einem PDF oder Word?
+- Will sie das Forms auf Email verschickt haben? Wollen sie es in einem PDF oder Word?
 - /Windows form app
 
 
 Besprechung LiL klink
-Kaufvertrag, Mängel produkt, Online bestellen, Eingeben wann gekauft, welches Produkt, "ICh erhebe Mängelrüge zu OR Artikel..." 3 Wahlrechte, "IM Anhang finden sie den Kaufbeleg etc"
+Kaufvertrag, Mängel produkt, Online bestellen, Eingeben wann gekauft, welches Produkt, "Ich erhebe Mängelrüge zu OR Artikel..." 3 Wahlrechte, "Im Anhang finden sie den Kaufbeleg etc"
 Nur für AGbs eine weitere Lösung (Achtung an den Kunden "Bitte prüfe die AGBS") 
 Welches dispotitife recht. 
 Umtausch/ Rücktritt von Vertrrag, Gutschein (Prüfen was in den AGB steht) 
@@ -99,6 +99,6 @@ Anklicken welches Produkt man gekauft hat.
 
 ## Arbeitspakete für 20.11.2023
 
-Lücken des PDFs mit den Forms füllen = Neo 
-OR Richtlinien suchen/formulieren = Jamie 
-Email = Abbas / Nando 
+- [ ] Lücken des PDFs mit den Forms füllen = Neo 
+- [ ] OR Richtlinien suchen/formulieren = Jamie 
+- [ ] Email = Abbas / Nando 
