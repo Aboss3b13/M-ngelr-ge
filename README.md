@@ -11,7 +11,7 @@ Es wird ein Formular geben. Es wird gestaltet und mit Fragen und es gibt einen O
 Diese Formular wird in ein PDF heruntergeladen nach dem man abschicken drückt. (Neo)
 Dieser PDF wird anschliessend via E-Mail geschickt (Abbas)
 
-Um ein Web Service abzuschicken brauchen wir ein Server. Aber wir müssen es nicht abschicken. Wir können es via Localhost machen. (Wer das Programm leitet, wird das Programm vorübergehend hosten, nur für sich selber.)
+Um ein Web Service abzuschicken brauchen wir einen Server. Aber wir müssen es nicht abschicken. Wir können es via Localhost machen. (Wer das Programm leitet, wird das Programm vorübergehend hosten, nur für sich selber.)
 
 ## Rollen
 Nando: Logik von Tabelle/Forms
@@ -27,7 +27,7 @@ Jamie: CSS/HTML Server
 
 Projekt Planung: 
 
-1. Forms erstellen in welcher Person Ihre Angaben erstellen kann, Text hinzufügen etc.
+1. Forms erstellen, in welchem die Person Ihre Angaben erstellen kann, Text hinzufügen etc.
 
 Persönliche Angaben: Vor- Nachname, Adresse, E-Mail
 
@@ -35,15 +35,15 @@ Kauf: Was hat man gekauft? (Maybe Bestellnummer?)
 
 Kaufmängel: Was ist falsch mit dem Produkt?
 
-Produktmängel: Produkt ist kaputt, falsche Grösse, sonstiges: (please specify) (KEINE ANNAHMEN ODER LIEFERVORZÜge) 
+Produktmängel: Produkt ist kaputt, falsche Grösse, sonstiges: (please specify) (KEINE ANNAHMEN ODER LIEFERVORZÜGE) 
 
-1. Eingegebener Text von Person in ein PDF-Konfigurieren
+2. Eingegebener Text von Person in ein PDF-Konfigurieren
 
-2. Dieses PDF an E-Mail senden
+3. Dieses PDF an E-Mail senden
 
 Der Käufer muss angeben, was er gekauft hat und wo der Mangel liegt. Danach soll eine Nächste Frage aufgemacht werden in welche Vorschläge für das Vorhandene Problem vorgeschlagen werden.
 
-Lösungen; Will der Käufer: Geld zurück, Ein Zweites Päckchen, Gutschein
+Lösungen: Will der Käufer: Geld zurück, Ein Zweites Päckchen, Gutschein
 
 ## Arbeitspakete 06.11.2023
       Fragen welche Geklärt werden müssen: 
@@ -58,7 +58,7 @@ Lösungen; Will der Käufer: Geld zurück, Ein Zweites Päckchen, Gutschein
 Brainstorming: Alle 
 -Fragen und Zusammenfasssung von Brainstorming: Neo und Jamie 
 
--Fragen Klären zu seinen eigenen Programmier Meilenstein:  (konkret herausfinden was man machen muss): Jeder für sich selbst
+-Fragen Klären zu seinem eigenen Programmier Meilenstein:  (konkret herausfinden was man machen muss): Jeder für sich selbst
 
 -Webite Layout/ Gestaltung: Jamie 
 
