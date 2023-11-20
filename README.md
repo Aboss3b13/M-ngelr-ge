@@ -99,7 +99,6 @@ Anklicken welches Produkt man gekauft hat.
 
 ## Arbeitspakete für 20.11.2023
 
-- [ ] muss noch geplannt werden
-- [ ] muss noch geplannt werden
-- [ ]
-- [ ]
+Lücken des PDFs mit den Forms füllen = Neo 
+OR Richtlinien suchen/formulieren = Jamie 
+Email = Abbas / Nando 
