@@ -101,4 +101,11 @@ Anklicken welches Produkt man gekauft hat.
 
 - [ ] Lücken des PDFs mit den Forms füllen = Neo 
 - [ ] OR Richtlinien suchen/formulieren = Jamie 
-- [ ] Email = Abbas / Nando 
+- [ ] Email = Abbas / Nando
+
+## Arbeitspakete für 27.11.2023
+
+- [ ] Email fertigmachen = Neo
+- [ ] Code verbessern = Abbas
+- [ ] Github Korrigieren = Nando
+- [ ] Cybermonday anschauen = Alle
