@@ -109,3 +109,7 @@ Anklicken welches Produkt man gekauft hat.
 - [ ] Code verbessern = Abbas
 - [ ] Github Korrigieren = Nando
 - [ ] Cybermonday anschauen = Alle
+
+
+Benützername: man
+passwort: password
