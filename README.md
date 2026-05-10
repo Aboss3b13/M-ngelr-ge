@@ -1,5 +1,5 @@
 # Mängelrüge 
-# Maengelruege 
+# Maengelruege  
 Wir machen ein Web Service. 
 Es wird eine Webseite entstehen.
 Auf diesem Web Service gibt es ein Formular das man ausfüllen kann.   
