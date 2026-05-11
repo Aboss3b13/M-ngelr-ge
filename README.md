@@ -12,7 +12,7 @@ Diese Formular wird in ein PDF heruntergeladen nach dem man abschicken drückt. 
 Dieser PDF wird anschliessend via E-Mail geschickt (Abbas)
 
 Um ein Web Service abzuschicken brauchen wir einen Server. Aber wir müssen es nicht abschicken. Wir können es via Localhost machen. (Wer das Programm leitet, wird das Programm vorübergehend hosten, nur für sich selber.)
-
+ 
 ## Rollen
 Nando: Logik von Tabelle/Forms
 Neo: Konvertierung vom Froms zu PDF
