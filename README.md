@@ -8,7 +8,7 @@ Zum Schluss wird es per E-Mail geschickt.
  
 Um diesen Webservice herzustellen, müssen wir es gestalten mit css und html. (Jamie)     
 Es wird ein Formular geben. Es wird gestaltet und mit Fragen und es gibt einen Ort um zu schreiben. Die Antworten werden gespeichert. (Nando) 
-Diese Formular wird in ein PDF heruntergeladen nach dem man abschicken drückt. (Neo) 
+Diese Formular wird in ein PDF heruntergeladen nach dem man abschicken drückt. (Neo)  
 Dieser PDF wird anschliessend via E-Mail geschickt (Abbas) 
 
 Um ein Web Service abzuschicken brauchen wir einen Server. Aber wir müssen es nicht abschicken. Wir können es via Localhost machen. (Wer das Programm leitet, wird das Programm vorübergehend hosten, nur für sich selber.)
