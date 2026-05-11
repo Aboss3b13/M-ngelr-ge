@@ -17,7 +17,7 @@ Um ein Web Service abzuschicken brauchen wir einen Server. Aber wir müssen es n
 Nando: Logik von Tabelle/Forms
 Neo: Konvertierung vom Froms zu PDF
 Abbas: PDF via E-Mail schicken
-Jamie: CSS/HTML Server 
+Jamie: CSS/HTML Server  
 
 ## Grob-Planung
 - [ ] Fragen mit Frau Klink klären
