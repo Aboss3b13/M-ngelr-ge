@@ -4,7 +4,7 @@ Wir machen ein Web Service.
 Es wird eine Webseite entstehen.  
 Auf diesem Web Service gibt es ein Formular das man ausfüllen kann.    
 Wenn alles ausgefüllt ist, wird es in ein PDF konvertiert.   
-Zum Schluss wird es per E-Mail geschickt. 
+Zum Schluss wird es per E-Mail geschickt.  
 
 Um diesen Webservice herzustellen, müssen wir es gestalten mit css und html. (Jamie)     
 Es wird ein Formular geben. Es wird gestaltet und mit Fragen und es gibt einen Ort um zu schreiben. Die Antworten werden gespeichert. (Nando) 
